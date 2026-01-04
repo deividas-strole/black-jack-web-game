@@ -3,7 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Blackjack</title>
+    <meta name="description" content="Play Blackjack online - A web-based casino card game created by Deividas Strole">
+    <meta name="keywords" content="Blackjack, card game, casino, Deividas Strole, web game, JavaScript game">
+    <meta name="author" content="Deividas Strole">
+    <title>Blackjack Game - Deividas Strole</title>
     <style>
         * {
             margin: 0;
@@ -184,6 +187,9 @@
 <body>
     <div class="game-container">
         <h1>♠ BLACKJACK ♥</h1>
+        <div style="text-align: center; font-size: 0.9em; color: #aaa; margin-bottom: 20px;">
+            Created by <a href="https://deividasstrole.com" target="_blank" style="color: #ffd700; text-decoration: none;">Deividas Strole</a>
+        </div>
         
         <div class="game-area">
             <div class="dealer-section">
@@ -221,9 +227,20 @@
                 <div class="stat-value" id="ties">0</div>
             </div>
         </div>
+
+        <footer style="text-align: center; margin-top: 20px; padding-top: 15px; border-top: 1px solid rgba(255, 255, 255, 0.1); font-size: 0.85em; color: #aaa;">
+            <p>© 2026 <a href="https://deividasstrole.com" target="_blank" style="color: #ffd700; text-decoration: none;">Deividas Strole</a>. All rights reserved.</p>
+            <div style="margin-top: 10px;">
+                <a href="https://linkedin.com/in/deividas-strole" target="_blank" style="color: #aaa; margin: 0 8px; text-decoration: none;">LinkedIn</a>
+                <a href="https://github.com/deividas-strole" target="_blank" style="color: #aaa; margin: 0 8px; text-decoration: none;">GitHub</a>
+                <a href="https://youtube.com/@deividas-strole" target="_blank" style="color: #aaa; margin: 0 8px; text-decoration: none;">YouTube</a>
+            </div>
+        </footer>
     </div>
 
     <script>
+        // Blackjack Game - Created by Deividas Strole
+        // https://deividasstrole.com
         let deck = [];
         let dealerHand = [];
         let playerHand = [];
