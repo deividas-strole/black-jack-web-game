@@ -4,7 +4,7 @@ Blackjack Web Game is a fully functional, single-file Blackjack game built entir
 
 Hosted directly on GitHub Pages, it's a lightweight, no-dependency web app perfect for quick play or as a learning example of pure front-end game development.
 
-This project, created by Deividas Strole, demonstrates clean code structure, DOM manipulation, game logic, and modern styling—all in one `index.html` file.
+This project, created by Deividas Strole, demonstrates clean code structure, DOM manipulation, game logic, and modern styling—all in one `index.html` file
 
 🚀 Overview
 
