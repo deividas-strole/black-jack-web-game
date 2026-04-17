@@ -2,7 +2,7 @@
 
 Blackjack Web Game is a fully functional, single-file Blackjack game built entirely with vanilla **JavaScript**, **HTML**, and **CSS**. Developed by Deividas Strole, this browser-based project implements classic Blackjack rules: hit, stand, dealer plays to 17, proper Ace handling (11 or 1), and immediate win detection for natural Blackjack.
 
-Hosted directly on GitHub Pages, it's a lightweight, no-dependency web app perfect for quick play or as a learning example of pure front-end game development
+Hosted directly on GitHub Pages, it's a lightweight, no-dependency web app perfect for quick play or as a learning example of pure front-end game development.
 
 This project, created by Deividas Strole, demonstrates clean code structure, DOM manipulation, game logic, and modern styling—all in one `index.html` file.
 
