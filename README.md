@@ -10,7 +10,7 @@ This project, created by Deividas Strole, demonstrates clean code structure, DOM
 
 Enjoy the thrill of Blackjack right in your browser. The dealer shows one card, you get two—decide to Hit or Stand, aiming to get closer to 21 than the dealer without busting. The game features a sleek gradient background, animated card hover effects, hidden dealer card, real-time scoring, and persistent win/loss/tie stats.
 
-Built by Deividas Strole as a portfolio piece showcasing vanilla JS game development.
+Built by Deividas Strole as a portfolio piece showcasing vanilla JS game development
 
 <grok-card data-id="18fb91" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
 
